@@ -40,7 +40,7 @@ I am currently searching for 2026 research internships and collaboration.
 
   Fall 2018 ~ Fall 2021
 
-  B.S. in Computer Engineering, ***the Bronze Tablets*** 🏅🎓
+  B.S. in Computer Engineering, *the Bronze Tablets* 🏅🎓
 
 
 ---
