@@ -32,7 +32,7 @@ I am currently searching for 2026 research internships and collaboration.
 
 - **Columbia University**, New York, NY
 
-  Fall 2022 ~ Now
+  Fall 2022 ~ Now 💻☕
 
   Ph.D. candidate after joint M.S. in Electrical Engineering
 
