@@ -26,16 +26,17 @@ I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Ele
 I am currently searching for 2026 research internships and collaboration.
 
 
+---
 
 ## Education
 
-- **Columbia University**
+- **Columbia University**, New York, NY
 
   Fall 2022 ~ Now
 
   Ph.D. candidate after joint M.S. in Electrical Engineering
 
-- **University of Illinois Urbana–Champaign**
+- **University of Illinois Urbana–Champaign**, IL
 
   Fall 2018 ~ Fall 2021
 
