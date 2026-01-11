@@ -24,3 +24,37 @@ announcements:
 I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Electrical Engineering](https://www.ee.columbia.edu) and [Zuckerman Institute](https://zuckermaninstitute.columbia.edu). I am a member of the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu) supervised by Professor [Nima Mesgarani](https://nima.ee.columbia.edu). I build intelligent models and agents that listen and speak like humans. Recently, I study the perception of multimodal large language models.
 
 I am currently searching for 2026 research internships and collaboration.
+
+
+
+## Education
+
+- **Columbia University**
+
+  Fall 2022 ~ Now
+
+  Ph.D. candidate after joint M.S. in Electrical Engineering
+
+- **University of Illinois Urbana–Champaign**
+
+  Fall 2018 ~ Fall 2021
+
+  B.S. in Computer Engineering, ***the Bronze Tablets*** 🏅🎓
+
+
+---
+
+## Internship
+
+- **Microsoft Research**, Redmond, WA  
+
+  Summer 2025, Research Intern
+
+  *Mentors:* Sebastian Braun & Hannes Gamper
+
+  *Project:* [Sci-Phi](https://arxiv.org/abs/2510.05542): A Large Language Model Spatial Audio Descriptor
+
+
+- **Amazon**, Palo Alto, CA  
+
+  Summer 2021 & 2022, SDE Intern
