@@ -28,7 +28,7 @@ I am currently searching for 2026 research internships and collaboration.
 
 ---
 
-### Education
+#### Education
 
 - **Columbia University**, New York, NY
 
@@ -45,7 +45,7 @@ I am currently searching for 2026 research internships and collaboration.
 
 ---
 
-### Internship
+#### Internship
 
 - **Microsoft Research**, Redmond, WA  
 
@@ -59,3 +59,5 @@ I am currently searching for 2026 research internships and collaboration.
 - **Amazon**, Palo Alto, CA  
 
   Summer 2021 & 2022, SDE Intern
+
+---
