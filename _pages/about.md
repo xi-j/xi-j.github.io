@@ -53,7 +53,7 @@ I am currently searching for 2026 research internships and collaboration.
 
   *Mentors:* Sebastian Braun & Hannes Gamper
 
-  *Project:* [Sci-Phi](https://arxiv.org/abs/2510.05542): A Large Language Model Spatial Audio Descriptor
+  *Project:* Spatial audio LLM
 
 
 - **Amazon**, Palo Alto, CA  
