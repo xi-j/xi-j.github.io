@@ -109,11 +109,18 @@ ninja.data = [{
           window.open("mailto:%78%6A%32%32%38%39@%63%6F%6C%75%6D%62%69%61.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/xi-j", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/xj0", "_blank");
         },
       },{
         id: 'social-scholar',
