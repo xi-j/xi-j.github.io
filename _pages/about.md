@@ -19,11 +19,6 @@ announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Electrical Engineering](https://www.ee.columbia.edu) and [Zuckerman Institute](https://zuckermaninstitute.columbia.edu). I am a member of the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu) supervised by Professor [Nima Mesgarani](https://nima.ee.columbia.edu). I build intelligent models and agents that listen and speak like humans. Recently, I study the perception of multimodal large language models.
