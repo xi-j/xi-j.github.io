@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Sci-Phi](https://arxiv.org/abs/2510.05542): A Large Language Model Spatial Audio Descriptor Accepted to IEEE Open Journal of Signal Processing!
+[Sci-Phi](https://arxiv.org/abs/2510.05542): A Large Language Model Spatial Audio Descriptor **Accepted** to IEEE Open Journal of Signal Processing!
