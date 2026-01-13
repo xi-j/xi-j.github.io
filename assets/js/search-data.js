@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-briding-ears-amp-amp-eyes-cross-audio-amp-amp-visual-llm-distill-won-the-best-paper-in-waspaa-2025",
-          title: 'Briding Ears&amp;amp;amp;Eyes cross audio&amp;amp;amp;visual LLM distill Won the Best Paper🥇 in WASPAA 2025...',
+            },},{id: "news-bridging-ears-amp-amp-eyes-cross-audio-amp-amp-visual-llm-distill-won-the-best-paper-in-waspaa-2025",
+          title: 'Bridging Ears&amp;amp;amp;Eyes cross audio&amp;amp;amp;visual LLM distill Won the Best Paper🥇 in WASPAA 2025...',
           description: "",
           section: "News",},{id: "news-dmospeech-2-reinforcement-learning-for-duration-prediction-in-metric-optimized-speech-synthesis-accepted-to-aaai-2026",
           title: 'DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis Accepted to...',
