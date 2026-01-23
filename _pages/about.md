@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 0.75em; color: #666;">
-      Colline du Château, Nice, France
+      Notre-Dame de la Garde, Marseille
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
