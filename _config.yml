@@ -7,8 +7,8 @@ first_name: Xilin
 middle_name:
 last_name: Jiang
 contact_note: >
-  <a href="/assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Gelato</a>,
-  <a href="assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Travel</a>,
+  <a href="assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Gelato</a>,
+  <a href="assets/interests/antibes.MOV" class="venobox" data-vbtype="video" data-autoplay="true" data-title="Near Musée Picasso, Antibes">Travel</a>
   <a href="interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Food</a>,
   <a href="/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Game</a>,
   <a href="/assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Classical Music</a>,
