@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 0.75em; color: #666;">
-      Notre-Dame de la Garde, Marseille
+      Notre-Dame de la Garde, Marseille, France
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
