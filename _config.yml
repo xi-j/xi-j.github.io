@@ -8,9 +8,9 @@ middle_name:
 last_name: Jiang
 contact_note: >
   <a href="assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Gelato</a>,
-  <a href="assets/interests/antibes.mp4" class="venobox" data-vbtype="video" data-autoplay="true" data-title="Near Musée Picasso, Antibes">Travel</a>
-  <a href="interests/unagi.JPG" data-lightbox="interests" data-title="Unadon">Food</a>,
-  <a href="/nterests/hadelich.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Game</a>,
+  <a href="assets/interests/antibes.mp4" class="venobox" data-vbtype="video" data-autoplay="true" data-title="Near Musée Picasso, Antibes">Travel</a>,
+  <a href="assets/interests/unagi.JPG" data-lightbox="interests" data-title="Unadon">Food</a>,
+  <a href="assets/nterests/henry.jpg" data-lightbox="interests" data-title="Amorino Gelato">Game</a>,
   <a href="assets/interests/hadelich.jpeg" data-lightbox="interests" data-title="Augustin Hadelich">Classical Music</a>,
   <a href="assets/interests/tokyo_dome.jpeg" data-lightbox="interests" data-title="Hinatazaka at Tokyo Dome, Christmas 2025">Hinatazaka</a>,
   and etc.
