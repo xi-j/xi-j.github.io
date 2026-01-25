@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+lightbox: true
 
 profile:
   align: right
