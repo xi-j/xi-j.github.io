@@ -7,13 +7,15 @@ first_name: Xilin
 middle_name:
 last_name: Jiang
 contact_note: >
+  <span style="font-size: 1.2em; line-height: 1.6;">
   <a href="assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato">Gelato</a>,
   <a href="assets/interests/antibes.mp4" class="venobox" data-vbtype="video" data-autoplay="true" data-title="Near Musée Picasso, Antibes">Travel</a>,
   <a href="assets/interests/unagi.JPG" data-lightbox="interests" data-title="Unadon">Food</a>,
-  <a href="assets/interests/henry.jpg" data-lightbox="interests" data-title="Amorino Gelato">Game</a>,
+  <a href="assets/interests/henry.jpg" data-lightbox="interests" data-title="Kingdom Come: Deliverance II">Game</a>,
   <a href="assets/interests/hadelich.jpeg" data-lightbox="interests" data-title="Augustin Hadelich">Classical Music</a>,
-  <a href="assets/interests/tokyo_dome.jpeg" data-lightbox="interests" data-title="Hinatazaka at Tokyo Dome, Christmas 2025">Hinatazaka</a>,
+  <a href="assets/interests/tokyo_dome.jpeg" data-lightbox="interests" data-title="Hinatazaka at Tokyo Dome, Christmas 2024">Hinatazaka</a>,
   and etc.
+  </span>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
