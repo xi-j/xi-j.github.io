@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[AVMeme Exam](https://avmemeexam.github.io/public) is public: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking
+[AVMeme Exam](https://arxiv.org/abs/2601.17645) is out: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking
