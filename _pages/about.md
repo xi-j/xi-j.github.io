@@ -26,6 +26,8 @@ I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Ele
 
 I am currently searching for 2026 research internships and collaborations.
 
+(Our lab has research openings. I am happy to mentor one Master’s or undergraduate student on an audio/speech-related research project, ideally with a multi-semester commitment. Columbia only.)
+
 
 ---
 
