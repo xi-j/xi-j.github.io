@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Electrical Engineering](https://www.ee.columbia.edu) and [Zuckerman Institute](https://zuckermaninstitute.columbia.edu). I am a member of the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu) supervised by Professor [Nima Mesgarani](https://nima.ee.columbia.edu). I work on speech/audio processing and multimodal LLMs, building models and agents that listen and speak like humans, spanning speech-to-text (understanding, ASR), text-to-speech (generation), and speech-to-speech (spoken dialog, enhancement) modeling.
+I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Electrical Engineering](https://www.ee.columbia.edu) and [Zuckerman Institute](https://zuckermaninstitute.columbia.edu). I am a member of the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu) supervised by Professor [Nima Mesgarani](https://nima.ee.columbia.edu). I work on speech/audio processing and multimodal LLMs, building models and agents that listen and speak like humans, spanning speech-to-text (understanding), text-to-speech (generation), and speech-to-speech (spoken dialog, enhancement).
 
 #### Education
 
