@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-02-16'
 papers:
   FQrkPUwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: 'Listen, Chat, and Remix: Text-Guided Soundscape Remixing for Enhanced Auditory Experience'
     year: '2025'
   FQrkPUwAAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 4
     title: 'DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis'
     year: '2025'
   FQrkPUwAAAAJ:9yKSN-GCB0IC:
@@ -24,14 +24,14 @@ papers:
   FQrkPUwAAAAJ:KlAtU1dfN6UC:
     citations: 0
     title: 'Sci-Phi: A Large Language Model Spatial Audio Descriptor'
-    year: '2025'
+    year: '2026'
   FQrkPUwAAAAJ:LkGwnXOMwfcC:
-    citations: 4
+    citations: 5
     title: Exploring finetuned audio-LLM on heart murmur features
     year: '2025'
   FQrkPUwAAAAJ:MXK_kJrjxJIC:
     citations: 4
-    title: 'ArrayDPS: Unsupervised Blind Speech Separation with a Diffusion Prior'
+    title: 'Arraydps: Unsupervised blind speech separation with a diffusion prior'
     year: '2025'
   FQrkPUwAAAAJ:ULOm3_A8WrAC:
     citations: 0
@@ -42,27 +42,31 @@ papers:
     title: Vector-quantized speech separation
     year: '2021'
   FQrkPUwAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 13
     title: 'Style-talker: Finetuning audio language model and style-based text-to-speech model for fast spoken dialogue generation'
     year: '2024'
   FQrkPUwAAAAJ:Y0pCki6q_DkC:
-    citations: 50
+    citations: 51
     title: 'Ssamba: Self-supervised audio representation learning with mamba state space model'
     year: '2024'
+  FQrkPUwAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs'' Contextual and Cultural Knowledge and Thinking'
+    year: '2026'
   FQrkPUwAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: Speaker Identity is Robustly Encoded in Spatial Patterns of Intracranial EEG for Attention Decoding
     year: '2025'
   FQrkPUwAAAAJ:_FxGoFyzp5QC:
-    citations: 9
-    title: 'StyleTTS-ZS: Efficient high-quality zero-shot text-to-speech synthesis with distilled time-varying style diffusion'
+    citations: 8
+    title: 'Styletts-zs: Efficient high-quality zero-shot text-to-speech synthesis with distilled time-varying style diffusion'
     year: '2025'
   FQrkPUwAAAAJ:d1gkVwhDpl0C:
-    citations: 60
+    citations: 62
     title: Compute and memory efficient universal sound source separation
     year: '2022'
   FQrkPUwAAAAJ:eQOLeE2rZwMC:
-    citations: 36
+    citations: 41
     title: 'Speech slytherin: Examining the performance and efficiency of mamba for speech separation, recognition, and synthesis'
     year: '2025'
   FQrkPUwAAAAJ:hqOjcs7Dif8C:
@@ -74,19 +78,19 @@ papers:
     title: 'SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models'
     year: '2025'
   FQrkPUwAAAAJ:qjMakFHDy7sC:
-    citations: 41
-    title: Phoneme-level bert for enhanced prosody of text-to-speech with grapheme predictions
+    citations: 42
+    title: Phoneme-level BERT for enhanced prosody of text-to-speech with grapheme predictions
     year: '2023'
   FQrkPUwAAAAJ:roLk4NBRz8UC:
     citations: 3
     title: 'Aad-llm: Neural attention-driven auditory scene understanding'
     year: '2025'
   FQrkPUwAAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 10
     title: Exploring self-supervised contrastive learning of spatial sound event representation
     year: '2024'
   FQrkPUwAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 12
     title: 'Hiftnet: A fast high-quality neural vocoder with harmonic-plus-noise filter and inverse short time fourier transform'
     year: '2023'
   FQrkPUwAAAAJ:ufrVoPGSRksC:
@@ -94,6 +98,6 @@ papers:
     title: "Just asr+ llm? a study on speech large language models\u2019 ability to identify and understand speaker in spoken dialogue"
     year: '2024'
   FQrkPUwAAAAJ:zYLM7Y9cAGgC:
-    citations: 94
+    citations: 98
     title: 'Dual-path mamba: Short and long-term bidirectional selective structured state space models for speech separation'
     year: '2025'
