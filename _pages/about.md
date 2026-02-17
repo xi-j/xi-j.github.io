@@ -22,7 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a PhD candidate at [Columbia University](https://www.columbia.edu), in [Electrical Engineering](https://www.ee.columbia.edu) and [Zuckerman Institute](https://zuckermaninstitute.columbia.edu). I am a member of the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu) supervised by Professor [Nima Mesgarani](https://nima.ee.columbia.edu). I work on speech/audio generative AI and multimodal LLM, building models and agents that listen and speak like humans, spanning speech-to-text (*understanding*), text-to-speech (*generation*), and speech-to-speech (*spoken dialog*, *enhancement*).
+
+I am a PhD candidate at [Columbia University](https://www.columbia.edu), majoring in [Electrical Engineering](https://www.ee.columbia.edu) and based at the [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu). Advised by Professor [Nima Mesgarani](https://nima.ee.columbia.edu) in the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu), I work on speech/audio generative AI and multimodal LLMs. In particular, I build models and agents that bridge the gap between machine intelligence and human perception, spanning speech-to-text (*audio understanding*), text-to-speech (*speech synthesis*), and speech-to-speech (*dialog system*, *speech enhancement*).
+
 
 #### Education
 
