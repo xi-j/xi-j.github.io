@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-20'
 papers:
   FQrkPUwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: Compute and memory efficient universal sound source separation
     year: '2022'
   FQrkPUwAAAAJ:eQOLeE2rZwMC:
-    citations: 41
+    citations: 42
     title: 'Speech slytherin: Examining the performance and efficiency of mamba for speech separation, recognition, and synthesis'
     year: '2025'
   FQrkPUwAAAAJ:hqOjcs7Dif8C:
@@ -78,7 +78,7 @@ papers:
     title: 'SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models'
     year: '2025'
   FQrkPUwAAAAJ:qjMakFHDy7sC:
-    citations: 42
+    citations: 43
     title: Phoneme-level BERT for enhanced prosody of text-to-speech with grapheme predictions
     year: '2023'
   FQrkPUwAAAAJ:roLk4NBRz8UC:
