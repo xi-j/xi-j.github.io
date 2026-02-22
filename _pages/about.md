@@ -25,7 +25,7 @@ announcements:
 
 I am a PhD candidate at [Columbia University](https://www.columbia.edu), majoring in [Electrical Engineering](https://www.ee.columbia.edu) and based at the [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu). Advised by Prof. [Nima Mesgarani](https://nima.ee.columbia.edu) in the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu), I work on speech/audio generative AI and multimodal LLMs. In particular, I build models and agents that bridge the gap between machine intelligence and human perception, spanning speech-to-text (*audio understanding*), text-to-speech (*speech synthesis*), and speech-to-speech (*dialog system*, *speech enhancement*).
 
-I obtained my BS degree in UIUC ECE, where I worked with Dr. [Efthymios Tzinis](https://etzinis.github.io) and Prof. [Paris Smaragdis](https://www.mit.edu/~paris) on speech separation.
+I obtained my BS degree in [UIUC](https://illinois.edu) [ECE](https://ece.illinois.edu), where I worked with Dr. [Efthymios Tzinis](https://etzinis.github.io) and Prof. [Paris Smaragdis](https://www.mit.edu/~paris) on speech separation.
 
 #### Education
 
