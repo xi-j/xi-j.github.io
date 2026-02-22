@@ -5,8 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xilin
 middle_name:
-last_name: >
-  Jiang <span style="font-family: 'STXingkai', 'Xingkai SC', '华文行楷', cursive; margin-left: 8px; font-weight: normal;">蒋晰林</span>
+last_name: Jiang
 contact_note: >
   <span style="font-size: 1.2em; line-height: 1.6;">
   <a href="/assets/interests/gelato.jpeg" data-lightbox="interests" data-title="Amorino Gelato"><u>Gelato</u></a>,
