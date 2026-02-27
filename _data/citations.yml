@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-02-27'
 papers:
   FQrkPUwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -90,7 +90,7 @@ papers:
     title: Exploring self-supervised contrastive learning of spatial sound event representation
     year: '2024'
   FQrkPUwAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 13
     title: 'Hiftnet: A fast high-quality neural vocoder with harmonic-plus-noise filter and inverse short time fourier transform'
     year: '2023'
   FQrkPUwAAAAJ:ufrVoPGSRksC:
