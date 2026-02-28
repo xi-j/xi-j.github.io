@@ -33,7 +33,7 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
 
   Fall 2022 ~ Now 💻☕
 
-  GPA: 4.12/4.00 (A+=4.33)
+  GPA: 4.12/4.00 (A+=4.33) 
 
   Ph.D. candidate after joint M.S. in Electrical Engineering
 
