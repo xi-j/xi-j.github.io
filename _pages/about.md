@@ -33,13 +33,17 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
 
   Fall 2022 ~ Now 💻☕
 
-  Ph.D. candidate after joint M.S. in Electrical Engineering
+  4.12/4.00 ("A+"=4.33)
+
+  PhD candidate after joint MS in Electrical Engineering
 
 - **University of Illinois Urbana–Champaign**, IL
 
   Fall 2018 ~ Fall 2021
 
-  B.S. in Computer Engineering, Highest Honor and *[Bronze Tablet](https://digital.library.illinois.edu/items/831a8d10-8621-013b-4461-02d0d7bfd6e4-b)* 🏅🎓
+  4.00/4.00 
+
+  BS in Computer Engineering, Highest Honor and *[Bronze Tablet](https://digital.library.illinois.edu/items/831a8d10-8621-013b-4461-02d0d7bfd6e4-b)* 🏅🎓
 
 
 ---
