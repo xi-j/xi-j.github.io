@@ -27,6 +27,8 @@ I am a PhD candidate at [Columbia University](https://www.columbia.edu) in [Elec
 
 I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illinois.edu), where I worked with Dr. [Efthymios Tzinis](https://etzinis.github.io) and Prof. [Paris Smaragdis](https://www.mit.edu/~paris) on speech separation.
 
+I will intern in Meta Superintelligence this summer.
+
 #### Education
 
 - **Columbia University**, New York, NY
