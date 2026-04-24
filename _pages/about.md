@@ -42,7 +42,7 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
 
 - **University of Illinois Urbana–Champaign**, IL
 
-  BS in Computer Engineering, Highest Honor and *[Bronze Tablet](https://digital.library.illinois.edu/items/831a8d10-8621-013b-4461-02d0d7bfd6e4-b)* 🏅🎓
+  BS in Computer Engineering, Highest Honor and *[Bronze Tablet](https://xi-j.github.io/assets/interests/bronze_tablet.JPG)* 🏅🎓
 
   Fall 2018 ~ Fall 2021, GPA: 4.00/4.00 
 
