@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-13'
 papers:
   FQrkPUwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: Compute and memory efficient universal sound source separation
     year: '2022'
   FQrkPUwAAAAJ:eQOLeE2rZwMC:
-    citations: 51
+    citations: 50
     title: 'Speech slytherin: Examining the performance and efficiency of mamba for speech separation, recognition, and synthesis'
     year: '2025'
   FQrkPUwAAAAJ:hqOjcs7Dif8C:
@@ -98,6 +98,6 @@ papers:
     title: "Just asr+ llm? a study on speech large language models\u2019 ability to identify and understand speaker in spoken dialogue"
     year: '2024'
   FQrkPUwAAAAJ:zYLM7Y9cAGgC:
-    citations: 108
+    citations: 109
     title: 'Dual-path mamba: Short and long-term bidirectional selective structured state space models for speech separation'
     year: '2025'
