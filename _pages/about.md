@@ -25,10 +25,10 @@ announcements:
 
 I am a PhD candidate at [Columbia University](https://www.columbia.edu) in [Electrical Engineering](https://www.ee.columbia.edu) and [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu). Advised by Prof. [Nima Mesgarani](https://nima.ee.columbia.edu) in the [Neural Acoustic Processing Lab](https://naplab.ee.columbia.edu), I study audio generative AI and multimodal LLMs, aim to model and to assist human **Listening**, **Thinking**, and **Speaking**, spanning <span style="color: green;"><b>Speech-to-Text</b></span> (*audio understanding*, *speech recognition*), <span style="color: maroon;"><b>Text-to-Speech</b></span> (*speech synthesis*), and <span style="color: royalblue;"><b>Speech-to-Speech</b></span> (*dialog system*, *speech enhancement*) applications.
 
-I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illinois.edu), where I worked with Dr. [Efthymios Tzinis](https://etzinis.github.io) and Prof. [Paris Smaragdis](https://www.mit.edu/~paris) on speech separation.
+I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illinois.edu), where I worked with Dr. [Efthymios Tzinis](https://etzinis.github.io) and Prof. [Paris Smaragdis](https://www.mit.edu/~paris).
 
 <p style="font-size: 0.92em; color: #666; margin-top: 0.6em;">
-  [Our lab often has undergraduate/master’s research opportunities (Columbia students). Feel free to reach out.]
+  [Our lab often has undergraduate/master's research opportunities (Columbia students). Feel free to reach out.]
 </p>
 
 #### Education
@@ -40,7 +40,7 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
   Fall 2022 ~ Now💻☕, GPA: 4.12/4.00 ("A+"=4.33)
 
 
-- **University of Illinois Urbana–Champaign**, IL
+- **University of Illinois Urbana–Champaign** (UIUC), IL
 
   BS in Computer Engineering, Highest Honor and *[Bronze Tablet](https://xi-j.github.io/assets/interests/bronze_tablet.JPG)* 🏅🎓
 
