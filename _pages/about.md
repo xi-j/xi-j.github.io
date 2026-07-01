@@ -51,12 +51,12 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
 
 #### Internship
 
-- **Meta Superintelligence Labs**, Menlo Park, CA  
+- **Meta Superintelligence Labs** (MSL), Menlo Park, CA  
 
   Summer 2026, Research Scientist Intern
 
 
-- **Microsoft Research**, Redmond, WA  
+- **Microsoft Research** (MSR), Redmond, WA  
 
   Summer 2025, Research Intern
 
