@@ -56,6 +56,15 @@
             </a>
           </li>
 
+          {% if site.data.socials.cv_pdf %}
+            <!-- CV PDF -->
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.data.socials.cv_pdf | relative_url }}" title="CV" aria-label="CV" target="_blank">
+                <i class="ai ai-cv"></i>
+              </a>
+            </li>
+          {% endif %}
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
