@@ -27,9 +27,6 @@ I am a PhD candidate at [Columbia University](https://www.columbia.edu) in [Elec
 
 I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illinois.edu), where I worked with Dr. [Efthymios Tzinis](https://etzinis.github.io) and Prof. [Paris Smaragdis](https://www.mit.edu/~paris).
 
-<p style="font-size: 0.92em; color: #666; margin-top: 0.6em;">
-  [Our lab often has undergraduate/master's research opportunities (Columbia students). Feel free to reach out.]
-</p>
 
 #### Education
 
@@ -37,7 +34,7 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
 
   PhD candidate after joint MS in Electrical Engineering
 
-  Fall 2022 ~ Now💻☕, GPA: 4.12/4.00 ("A+"=4.33)
+  Fall 2022 ~ Now💻☕, GPA: 4.115/4.00 ("A+"=4.33)
 
 
 - **University of Illinois Urbana–Champaign** (UIUC), IL
