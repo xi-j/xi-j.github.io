@@ -1,10 +1,12 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
+    {% assign news_scroll_limit = 5 %}
+    {% assign news_max_height = news_scroll_limit | times: 2.6 %}
     <div
       class="table-responsive"
-      {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+      {% if include.limit and page.announcements.scrollable and news_size > news_scroll_limit %}
+        style="max-height: {{ news_max_height }}rem; overflow-y: auto"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
