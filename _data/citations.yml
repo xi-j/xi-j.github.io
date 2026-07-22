@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-22'
 papers:
   FQrkPUwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -10,15 +10,15 @@ papers:
     title: Layer-wise minimal pair probing reveals contextual grammatical-conceptual hierarchy in speech representations
     year: '2025'
   FQrkPUwAAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: 'Video Generation Models: A Survey of Post-Training and Alignment'
     year: '2026'
   FQrkPUwAAAAJ:5nxA0vEk-isC:
-    citations: 14
+    citations: 15
     title: 'Listen, Chat, and Remix: Text-Guided Soundscape Remixing for Enhanced Auditory Experience'
     year: '2025'
   FQrkPUwAAAAJ:8k81kl-MbHgC:
-    citations: 5
+    citations: 6
     title: 'DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis'
     year: '2025'
   FQrkPUwAAAAJ:9yKSN-GCB0IC:
@@ -26,11 +26,11 @@ papers:
     title: Learning representations for new sound classes with continual self-supervised learning
     year: '2022'
   FQrkPUwAAAAJ:KlAtU1dfN6UC:
-    citations: 2
+    citations: 4
     title: 'Sci-Phi: A Large Language Model Spatial Audio Descriptor'
     year: '2026'
   FQrkPUwAAAAJ:LkGwnXOMwfcC:
-    citations: 5
+    citations: 8
     title: Exploring finetuned audio-LLM on heart murmur features
     year: '2025'
   FQrkPUwAAAAJ:MXK_kJrjxJIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Arraydps: Unsupervised blind speech separation with a diffusion prior'
     year: '2025'
   FQrkPUwAAAAJ:ULOm3_A8WrAC:
-    citations: 2
+    citations: 3
     title: 'MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow'
     year: '2025'
   FQrkPUwAAAAJ:UeHWp8X0CEIC:
@@ -46,11 +46,11 @@ papers:
     title: Vector-quantized speech separation
     year: '2021'
   FQrkPUwAAAAJ:WF5omc3nYNoC:
-    citations: 14
+    citations: 16
     title: 'Style-talker: Finetuning audio language model and style-based text-to-speech model for fast spoken dialogue generation'
     year: '2024'
   FQrkPUwAAAAJ:Y0pCki6q_DkC:
-    citations: 64
+    citations: 70
     title: 'Ssamba: Self-supervised audio representation learning with mamba state space model'
     year: '2024'
   FQrkPUwAAAAJ:YOwf2qJgpHMC:
@@ -62,7 +62,7 @@ papers:
     title: Speaker Identity is Robustly Encoded in Spatial Patterns of Intracranial EEG for Attention Decoding
     year: '2025'
   FQrkPUwAAAAJ:_FxGoFyzp5QC:
-    citations: 12
+    citations: 14
     title: 'Styletts-zs: Efficient high-quality zero-shot text-to-speech synthesis with distilled time-varying style diffusion'
     year: '2025'
   FQrkPUwAAAAJ:_kc_bZDykSQC:
@@ -74,23 +74,23 @@ papers:
     title: Compute and memory efficient universal sound source separation
     year: '2022'
   FQrkPUwAAAAJ:eQOLeE2rZwMC:
-    citations: 51
+    citations: 55
     title: 'Speech slytherin: Examining the performance and efficiency of mamba for speech separation, recognition, and synthesis'
     year: '2025'
   FQrkPUwAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 3
     title: 'Bridging Ears and Eyes: Analyzing Audio and Visual Large Language Models to Humans in Visible Sound Recognition and Reducing Their Sensory Gap via Cross-Modal Distillation'
     year: '2025'
   FQrkPUwAAAAJ:kNdYIx-mwKoC:
-    citations: 1
-    title: 'SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models'
+    citations: 3
+    title: 'Sightsound-r1: Cross-modal reasoning distillation from vision to audio language models'
     year: '2026'
   FQrkPUwAAAAJ:qjMakFHDy7sC:
-    citations: 47
+    citations: 50
     title: Phoneme-level BERT for enhanced prosody of text-to-speech with grapheme predictions
     year: '2023'
   FQrkPUwAAAAJ:roLk4NBRz8UC:
-    citations: 4
+    citations: 5
     title: 'Aad-llm: Neural attention-driven auditory scene understanding'
     year: '2025'
   FQrkPUwAAAAJ:u-x6o8ySG0sC:
@@ -98,14 +98,14 @@ papers:
     title: Exploring self-supervised contrastive learning of spatial sound event representation
     year: '2024'
   FQrkPUwAAAAJ:u5HHmVD_uO8C:
-    citations: 18
+    citations: 21
     title: 'Hiftnet: A fast high-quality neural vocoder with harmonic-plus-noise filter and inverse short time fourier transform'
     year: '2023'
   FQrkPUwAAAAJ:ufrVoPGSRksC:
-    citations: 9
+    citations: 12
     title: "Just asr+ llm? a study on speech large language models\u2019 ability to identify and understand speaker in spoken dialogue"
     year: '2024'
   FQrkPUwAAAAJ:zYLM7Y9cAGgC:
-    citations: 110
+    citations: 119
     title: 'Dual-path mamba: Short and long-term bidirectional selective structured state space models for speech separation'
     year: '2025'
