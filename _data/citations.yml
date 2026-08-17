@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-17'
 papers:
   FQrkPUwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,8 +14,8 @@ papers:
     title: 'Video Generation Models: A Survey of Post-Training and Alignment'
     year: '2026'
   FQrkPUwAAAAJ:5nxA0vEk-isC:
-    citations: 15
-    title: 'Listen, Chat, and Remix: Text-Guided Soundscape Remixing for Enhanced Auditory Experience'
+    citations: 18
+    title: 'Listen, chat, and remix: Text-guided soundscape remixing for enhanced auditory experience'
     year: '2025'
   FQrkPUwAAAAJ:8k81kl-MbHgC:
     citations: 6
@@ -27,19 +27,19 @@ papers:
     year: '2022'
   FQrkPUwAAAAJ:KlAtU1dfN6UC:
     citations: 4
-    title: 'Sci-Phi: A Large Language Model Spatial Audio Descriptor'
+    title: 'Sci-phi: A large language model spatial audio descriptor'
     year: '2026'
   FQrkPUwAAAAJ:LkGwnXOMwfcC:
-    citations: 8
+    citations: 9
     title: Exploring finetuned audio-LLM on heart murmur features
     year: '2025'
   FQrkPUwAAAAJ:MXK_kJrjxJIC:
-    citations: 9
-    title: 'Arraydps: Unsupervised blind speech separation with a diffusion prior'
+    citations: 10
+    title: 'ArrayDPS: Unsupervised blind speech separation with a diffusion prior'
     year: '2025'
   FQrkPUwAAAAJ:ULOm3_A8WrAC:
-    citations: 3
-    title: 'MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow'
+    citations: 4
+    title: 'MeanFlow-TSE: One-step generative target speaker extraction with mean flow'
     year: '2025'
   FQrkPUwAAAAJ:UeHWp8X0CEIC:
     citations: 0
@@ -54,12 +54,12 @@ papers:
     title: 'Ssamba: Self-supervised audio representation learning with mamba state space model'
     year: '2024'
   FQrkPUwAAAAJ:YOwf2qJgpHMC:
-    citations: 1
+    citations: 3
     title: 'AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs'' Contextual and Cultural Knowledge and Thinking'
     year: '2026'
   FQrkPUwAAAAJ:Zph67rFs4hoC:
-    citations: 1
-    title: Speaker Identity is Robustly Encoded in Spatial Patterns of Intracranial EEG for Attention Decoding
+    citations: 3
+    title: Speaker identity is robustly encoded in spatial patterns of intracranial EEG for attention decoding
     year: '2025'
   FQrkPUwAAAAJ:_FxGoFyzp5QC:
     citations: 14
@@ -70,11 +70,11 @@ papers:
     title: 'Sympatheia: Emotionally Adaptive Voice Assistant with Continuous Affect Conditioning'
     year: '2026'
   FQrkPUwAAAAJ:d1gkVwhDpl0C:
-    citations: 70
+    citations: 69
     title: Compute and memory efficient universal sound source separation
     year: '2022'
   FQrkPUwAAAAJ:eQOLeE2rZwMC:
-    citations: 55
+    citations: 58
     title: 'Speech slytherin: Examining the performance and efficiency of mamba for speech separation, recognition, and synthesis'
     year: '2025'
   FQrkPUwAAAAJ:hqOjcs7Dif8C:
@@ -86,11 +86,15 @@ papers:
     title: 'Sightsound-r1: Cross-modal reasoning distillation from vision to audio language models'
     year: '2026'
   FQrkPUwAAAAJ:qjMakFHDy7sC:
-    citations: 50
-    title: Phoneme-level BERT for enhanced prosody of text-to-speech with grapheme predictions
+    citations: 51
+    title: Phoneme-level bert for enhanced prosody of text-to-speech with grapheme predictions
     year: '2023'
+  FQrkPUwAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'Cocktail-Talker: Multi-Speaker Dialog Modeling in Noisy Social Environments with Turn Action GRPO'
+    year: '2026'
   FQrkPUwAAAAJ:roLk4NBRz8UC:
-    citations: 5
+    citations: 7
     title: 'Aad-llm: Neural attention-driven auditory scene understanding'
     year: '2025'
   FQrkPUwAAAAJ:u-x6o8ySG0sC:
@@ -98,14 +102,14 @@ papers:
     title: Exploring self-supervised contrastive learning of spatial sound event representation
     year: '2024'
   FQrkPUwAAAAJ:u5HHmVD_uO8C:
-    citations: 21
+    citations: 23
     title: 'Hiftnet: A fast high-quality neural vocoder with harmonic-plus-noise filter and inverse short time fourier transform'
     year: '2023'
   FQrkPUwAAAAJ:ufrVoPGSRksC:
-    citations: 12
+    citations: 13
     title: "Just asr+ llm? a study on speech large language models\u2019 ability to identify and understand speaker in spoken dialogue"
     year: '2024'
   FQrkPUwAAAAJ:zYLM7Y9cAGgC:
-    citations: 119
+    citations: 120
     title: 'Dual-path mamba: Short and long-term bidirectional selective structured state space models for speech separation'
     year: '2025'
