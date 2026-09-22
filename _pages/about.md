@@ -54,7 +54,9 @@ I obtained my BS degree from [UIUC](https://illinois.edu) [ECE](https://ece.illi
 
   *Mentors:* Osama Hanna & Shun Zhang
 
-  *Project:* Conversational Voice Aesthetic Model with Reinforcement Learning from Human Listeners (paper coming soon)
+  *Project:* Conversational Voice Aesthetic Model with RL from Humans
+  
+  (paper coming soon)
 
 
 - **Microsoft Research** (MSR), Redmond, WA  
